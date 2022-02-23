@@ -19,7 +19,7 @@ status-website:
   theme: dark
   baseUrl: /status
   logoUrl: https://chequeado.com/wp-content/themes/chequeado/assets/logos/svg/logo-chequeado-light.svg
-  name: Upptime
+  name: Status
   introTitle: "**Status de chequeado**"
   introMessage: Se visualiza el estado de todos los servicios en tiempo real.
   navbar:
