@@ -6,7 +6,7 @@ sites:
   - name: Chequeado
     url: https://www.chequeado.com
   - name: Chequeabot
-    url: https://chequeabot.com
+    url: https://test04.chequeabot.com
   - name: El abridor
     url: https://elabridor.chequeado.com/
   - name: test03
