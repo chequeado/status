@@ -6,11 +6,11 @@ sites:
   - name: Chequeado
     url: https://www.chequeado.com
   - name: Chequeabot
-    url: https://test04.chequeabot.com
+    url: https://chequeabot.com
   - name: El abridor
     url: https://elabridor.chequeado.com/
-  - name: test03
-    url: https://tetst03.chequeabot.com
+  - name: test04
+    url: https://04.chequeado.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
