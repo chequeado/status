@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2301,
-    "timeDay": 2301,
-    "timeWeek": 2301,
-    "timeMonth": 2301,
-    "timeYear": 2301,
+    "time": 2261,
+    "timeDay": 2261,
+    "timeWeek": 2261,
+    "timeMonth": 2261,
+    "timeYear": 2261,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Chequeabot",
+    "url": "https://www.chequeabot.com",
+    "icon": "https://favicons.githubusercontent.com/www.chequeabot.com",
+    "slug": "chequeabot",
+    "status": "down",
+    "uptime": "18.43%",
+    "uptimeDay": "18.43%",
+    "uptimeWeek": "18.43%",
+    "uptimeMonth": "18.43%",
+    "uptimeYear": "18.43%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   }
 ]
