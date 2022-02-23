@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2230,
-    "timeDay": 2230,
-    "timeWeek": 2230,
-    "timeMonth": 2230,
-    "timeYear": 2230,
+    "time": 2244,
+    "timeDay": 2244,
+    "timeWeek": 2244,
+    "timeMonth": 2244,
+    "timeYear": 2244,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/chequeabot.com",
     "slug": "chequeabot",
     "status": "up",
-    "uptime": "56.00%",
-    "uptimeDay": "56.00%",
-    "uptimeWeek": "56.00%",
-    "uptimeMonth": "56.00%",
-    "uptimeYear": "56.00%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "uptime": "57.92%",
+    "uptimeDay": "57.92%",
+    "uptimeWeek": "57.92%",
+    "uptimeMonth": "57.92%",
+    "uptimeYear": "57.92%",
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-02-23": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 315,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/tetst01.chequeabot.com",
     "slug": "test01",
     "status": "down",
-    "uptime": "8.95%",
-    "uptimeDay": "8.95%",
-    "uptimeWeek": "8.95%",
-    "uptimeMonth": "8.95%",
-    "uptimeYear": "8.95%",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 2
     }
   }
 ]
