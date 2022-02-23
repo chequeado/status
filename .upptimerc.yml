@@ -7,7 +7,7 @@ sites:
   - name: Chequeado
     url: https://www.chequeado.com
   - name: Chequeabot
-    url: https://www.chequeabot.com
+    url: https://chequeabot.com
     
 
 status-website:
