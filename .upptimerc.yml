@@ -9,8 +9,6 @@ sites:
     url: https://chequeabot.com
   - name: El abridor
     url: https://elabridor.chequeado.com/
-  - name: test04
-    url: https://04.chequeado.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
