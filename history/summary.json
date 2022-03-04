@@ -60,19 +60,19 @@
     "url": "https://chequeabot.chequeado.com/desgrabador/",
     "icon": "https://favicons.githubusercontent.com/chequeabot.chequeado.com",
     "slug": "desgrabador-gratuito",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 8426,
     "timeDay": 9330,
     "timeWeek": 8426,
     "timeMonth": 8426,
     "timeYear": 8426,
     "dailyMinutesDown": {
-      "2022-03-04": 35,
+      "2022-03-04": 30,
       "2022-03-03": 4
     }
   }
