@@ -4,19 +4,19 @@
     "url": "https://www.chequeado.com",
     "icon": "https://favicons.githubusercontent.com/www.chequeado.com",
     "slug": "chequeado",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 4203,
     "timeDay": 15867,
     "timeWeek": 7737,
     "timeMonth": 4203,
     "timeYear": 4203,
     "dailyMinutesDown": {
-      "2022-03-21": 32
+      "2022-03-21": 21
     }
   },
   {
