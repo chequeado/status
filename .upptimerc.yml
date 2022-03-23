@@ -4,9 +4,11 @@ repo: status # The name of this repository
 
 sites:
   - name: Chequeado
-    url: https://www.chequeado.com
+    url: https://chequeado.com
   - name: Chequeabot
     url: https://chequeabot.com
+  - name: Chatbot
+    url: https://chequeado.com/chatbot
   - name: El abridor
     url: https://elabridor.chequeado.com/
   - name: Desgrabador gratuito
