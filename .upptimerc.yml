@@ -12,7 +12,7 @@ sites:
   - name: Desgrabador gratuito
     url: https://chequeabot.chequeado.com/desgrabador/
   - name: El abridor
-    url: https://elabridor.chequeado.com/
+    url: https://chequeado.com/elabridor/
   - name: Factchequeado
     url: https://factchequeado.com
 
