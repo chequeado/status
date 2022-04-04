@@ -15,6 +15,8 @@ sites:
     url: https://chequeado.com/elabridor/
   - name: Factchequeado
     url: https://factchequeado.com
+  - name: Tuits borrados (Politwoops)
+    url: https://chequeado.com/tuitsborrados
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
