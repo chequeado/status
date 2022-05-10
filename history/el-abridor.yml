@@ -1,7 +1,7 @@
 url: https://chequeado.com/elabridor/
-status: up
-code: 200
-responseTime: 78
-lastUpdated: 2022-05-09T23:03:38.807Z
+status: down
+code: 503
+responseTime: 34
+lastUpdated: 2022-05-10T22:21:05.657Z
 startTime: Wed Feb 23 2022 19:58:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
