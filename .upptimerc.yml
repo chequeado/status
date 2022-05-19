@@ -15,6 +15,8 @@ sites:
     url: https://chequeado.com/elabridor/
   - name: Factchequeado
     url: https://factchequeado.com
+  - name: Reverso
+    url: https://reversoar.com
   - name: Tuits borrados (Politwoops)
     url: https://chequeado.com/tuitsborrados
 
