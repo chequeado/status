@@ -9,6 +9,8 @@ sites:
     url: https://chequeabot.com
   - name: Chequeado
     url: https://chequeado.com
+  - name: Chequeo Colectivo
+    url: https://chequeado.com/colectivo
   - name: Desgrabador gratuito
     url: https://chequeabot.chequeado.com/desgrabador/
   - name: El abridor
