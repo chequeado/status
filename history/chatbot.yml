@@ -1,7 +1,7 @@
 url: https://chequeado.com/chatbot
-status: up
-code: 200
-responseTime: 954
-lastUpdated: 2022-06-01T23:03:39.599Z
+status: down
+code: 403
+responseTime: 106
+lastUpdated: 2022-06-02T11:18:42.171Z
 startTime: Wed Mar 23 2022 12:40:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
