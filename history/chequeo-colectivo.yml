@@ -1,7 +1,7 @@
 url: https://chequeado.com/colectivo
-status: down
-code: 502
-responseTime: 78
-lastUpdated: 2022-06-07T13:58:49.385Z
+status: up
+code: 200
+responseTime: 4411
+lastUpdated: 2022-06-07T14:05:48.732Z
 startTime: Mon May 30 2022 14:43:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
