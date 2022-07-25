@@ -1,7 +1,7 @@
 url: https://reversoar.com
-status: up
-code: 200
-responseTime: 6248
-lastUpdated: 2022-07-25T16:41:00.099Z
+status: down
+code: 502
+responseTime: 9282
+lastUpdated: 2022-07-25T17:51:23.230Z
 startTime: Thu May 19 2022 11:24:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
