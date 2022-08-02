@@ -1,7 +1,7 @@
 url: https://chequeabot.chequeado.com/desgrabador/
-status: down
-code: 403
-responseTime: 85
-lastUpdated: 2022-08-01T23:03:53.978Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2022-08-02T14:54:02.812Z
 startTime: Thu Mar 03 2022 19:38:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
