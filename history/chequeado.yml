@@ -1,7 +1,7 @@
 url: https://chequeado.com
-status: up
-code: 200
-responseTime: 2385
-lastUpdated: 2022-08-20T18:18:27.512Z
+status: down
+code: 502
+responseTime: 9069
+lastUpdated: 2022-08-20T19:48:50.161Z
 startTime: Wed Feb 23 2022 19:10:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
