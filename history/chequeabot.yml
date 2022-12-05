@@ -1,7 +1,7 @@
 url: https://chequeabot.com
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2022-12-05T14:45:12.169Z
+status: down
+code: 502
+responseTime: 208
+lastUpdated: 2022-12-05T14:50:25.392Z
 startTime: Wed Feb 23 2022 19:37:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
