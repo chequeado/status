@@ -1,7 +1,7 @@
 url: https://factchequeado.com
-status: up
-code: 200
-responseTime: 297
-lastUpdated: 2023-01-25T02:32:56.792Z
+status: down
+code: 500
+responseTime: 495
+lastUpdated: 2023-01-25T14:16:06.045Z
 startTime: Tue Mar 29 2022 18:51:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
